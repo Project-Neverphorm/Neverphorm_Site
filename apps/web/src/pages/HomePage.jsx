@@ -77,10 +77,6 @@ const HomePage = () => {
                 Project <span className="text-primary">Neverphorm</span>
               </h1>
               
-              <p className="text-xl md:text-2xl text-muted-foreground mb-4 font-medium">
-                We don't conform. We build experiences.
-              </p>
-              
               <p className="text-base md:text-lg text-muted-foreground/80 mb-12 max-w-2xl mx-auto leading-relaxed">
                 An indie game studio focused on creating unique, catharsis, and chaotic gameplay experiences.
               </p>
