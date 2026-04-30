@@ -148,7 +148,7 @@ const HomePage = () => {
             margin: "-100px"
           }} variants={fadeInUp}>
               <h2 className="text-3xl md:text-4xl font-semibold mb-8 leading-snug">
-                About Project Neverphorm
+                About the Studio
               </h2>
               <div className="space-y-6 text-base md:text-lg leading-relaxed text-muted-foreground max-w-prose mx-auto">
                 <p>
